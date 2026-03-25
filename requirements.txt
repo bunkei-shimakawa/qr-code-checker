@@ -4,3 +4,5 @@ pyzbar
 Pillow
 requests
 pandas
+bokeh
+beautifulsoup4
